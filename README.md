@@ -1,5 +1,7 @@
 # Bullpen-Randomizer
 
+# Live Demo https://derrickvasquez.github.io/Bullpen-Randomizer/
+
 This is a tool designed to be used during bullpen sessions. The goal is to simulate the different outcomes of an actual baseball game, and to make practices a bit more competitive. 
 
 After each strike is thrown, select the appropriate button to receive a random outcome. 
